@@ -1,13 +1,14 @@
 
   *{
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
   }
   
   .main-container{
     background-image:url("./Rectangle\ 1.svg");
-    width: 1440px;
+    background-size: cover;
     height: 679px;
+ 
 
   }
   .mid-nav{
@@ -284,6 +285,11 @@ margin-top: 30px;
     
     }
 
+    /* .sub-button{
+       border: none;
+       outline: none;
+    } */
+
     
 
 
@@ -332,7 +338,7 @@ color: white;
   padding-bottom: 50px;
    left: 0px;
   top: 2819px;
-  margin-right: 60px;
+  /* margin-right: 60px; */
 }
 .section6-body h3{
   font-style: normal;
