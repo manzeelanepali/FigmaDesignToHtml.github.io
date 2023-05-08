@@ -152,6 +152,29 @@ line-height: 49px;
   justify-content: space-evenly;
  }
 
+ .logo-group img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+ 
+ }
+
+ .keybenifits{
+  font-style: normal;
+font-weight: 900;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+color: #043CAA;
+margin-top: 113px; }
+
+
+.for-lining{
+  display: flex;
+  justify-content: center;
+}
+
 .section-3 {
 margin: 104px;
 display: flex;
